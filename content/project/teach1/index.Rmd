@@ -2,9 +2,9 @@
 title: "Estadística Aplicada con R"
 date: '2026-01-31'
 summary: "Mathematical modelling of cocoa bean fermentation"
-tags: ["cocoa","bayesian"]
+tags: ["teaching", "R"]
 image: 
-  caption: "Cocoa beans drying in the sun by benketaro is licensed with CC BY 2.0."
+  caption: ""
   focal_point: Smart
   preview_only: no
 ---
