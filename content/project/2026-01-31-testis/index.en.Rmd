@@ -2,12 +2,8 @@
 title: Testis
 author: ''
 date: '2026-01-31'
-slug: []
+summary: "Mathematical modelling of cocoa bean fermentation"
 categories: []
 tags: ["teaching"]
-build:
-  render: never
-  list: never
-  publishResources: false
 ---
 
