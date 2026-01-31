@@ -18,12 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Biostatistics Scientist"
+  company = "Bayer AG, Crop Science Division"
+  company_url = "https://www.bayer.com/en/agriculture-overview"
+  location = "Monheim am Rhein - Germany"
+  date_start = "2022-06-01"
+  date_end = ""
+  description = """ Biostatistician at the Institute of Genomics and Biometrics of the FBN """
+  #Responsibilities include:
+  
+  #* Assist Researchers in designing experiments and analyzing data.
+  #* Currently in look for ideas for my own line of research in farm animal biology.
+  #"""
+
+[[experience]]
   title = "PostDoc and Statistical Counselor"
   company = "Research Institute for Farm Animal Biology (FBN)"
   company_url = "https://www.fbn-dummerstorf.de/"
   location = "Dummerstorf - Germany"
   date_start = "2021-10-01"
-  date_end = ""
+  date_end = "2022-03-31"
   description = """ Biostatistician at the Institute of Genomics and Biometrics of the FBN """
   #Responsibilities include:
   
