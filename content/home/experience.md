@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Monheim am Rhein - Germany"
   date_start = "2022-06-01"
   date_end = ""
-  description = """ Biostatistician at the Institute of Genomics and Biometrics of the FBN """
+  description = """ Biostatistician responsible for the design and analysis of field trials for crop protection products """
   #Responsibilities include:
   
   #* Assist Researchers in designing experiments and analyzing data.

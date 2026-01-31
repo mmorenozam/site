@@ -14,7 +14,7 @@ role: PhD in Bioinformatics
 
 # Organizations/Affiliations
 organizations:
-- name: Research Institute for Farm Animal Biology (FBN)
+- name: Bayer AG, Crop Science Division
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,4 +77,4 @@ user_groups:
 
 Hi, welcome to my personal webpage! 
 
-My name is Mauricio. I am a Biostatistician currently working as Statistical Counselor at the Research Institute for Farm Animal Biology - Dummerstorf. Besides that responsibility, I am currently jumping into the world of farm animal biology in order to come up with my own line of research. Here you will find a (non-updated) summary of my CV and projects I have worked/currently working in.
+My name is Mauricio. I am a Biostatistician currently working as Biostatistics Scientist at Bayer Crop Science. Besides that responsibility, I teach online seminars in Statistics because of two reasons: as a passion of mine for education, and in accordance to the compensation program part of the Ecuadorian Scholarship I was awarded in 2012 to pursue my post-graduate studies. Here you will find a light summary of my CV and projects I have worked/currently working in. Please feel free to drop me a message in the contact form at the end of this page.
