@@ -1,0 +1,17 @@
+---
+title: "Estadística Aplicada con R"
+date: '2026-01-31'
+summary: "Mathematical modelling of cocoa bean fermentation"
+tags: ["cocoa","bayesian"]
+image: 
+  caption: "Cocoa beans drying in the sun by benketaro is licensed with CC BY 2.0."
+  focal_point: Smart
+  preview_only: no
+---
+
+
+The COMETA (COcoa METAbolomics) project is an ongoing effort aimed to characterize taste, aroma and flavor compounds in cocoa beans. It is driven by Jacobs University Bremen with funding from Barry Callebaut <a href="http://mullrich.user.jacobs-university.de/cocoa-metabolomics/" target="_blank">(see more)</a>.
+
+My role within COMETA started in 2016 as a PhD student. My main research was aimed to develop kinetic models of cocoa bean fermentation. For accomplishing this task, I used Bayesian methods coded in <a href="https://mc-stan.org/" target="_blank">Stan</a> for fitting ordinary differential equation systems upon previously published data from fermentation trials.
+
+If you are interested in a brief summary of this research, you can check this <a href="https://mmorenozam.github.io/stan2019/" target="_blank">notebook</a> which was part of a presentation I gave at StanCon 2019 in Cambridge.
